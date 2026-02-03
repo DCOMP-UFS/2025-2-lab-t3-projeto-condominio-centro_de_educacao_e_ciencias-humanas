@@ -1,6 +1,6 @@
 # Descrição técnica de cada laboratório:
 
-## Letras:
+## Letras (Gelic - Estudos de Literatura e de Cultura):
 O projeto visa prover conectividade de alta performance para pesquisa linguística e acadêmica, utilizando uma topologia de rede em estrela interligada ao núcleo central do condomínio de laboratórios.
 
 ### Especificações Técnicas por Componente:
