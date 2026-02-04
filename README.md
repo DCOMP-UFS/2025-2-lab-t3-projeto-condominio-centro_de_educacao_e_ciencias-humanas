@@ -15,7 +15,7 @@ Cabeamento Estruturado: 30 metros de cabo Cat 6 e 9 portas RJ45 (keystones). A i
   
 Proteção Elétrica e Acomodação: 01 Rack de parede com sistema de ventilação forçada para exaustão de calor. A proteção contra picos de tensão e falta de energia é garantida por nobreak (UPS) senoidais, garantindo a integridade dos dados em caso de falhas elétricas.
 
-### Integração e Disponibilidade: O laboratório consome serviços de camada 3 (Firewall, Roteamento e Servidores Virtuais) providos pela Sala Técnica (STI) central, reduzindo o custo de manutenção local e aumentando a segurança cibernética através de políticas de borda compartilhadas.
+Integração e Disponibilidade: O laboratório consome serviços de camada 3 (Firewall, Roteamento e Servidores Virtuais) providos pela Sala Técnica (STI) central, reduzindo o custo de manutenção local e aumentando a segurança cibernética através de políticas de borda compartilhadas.
 
 ## Antropologia:
 
