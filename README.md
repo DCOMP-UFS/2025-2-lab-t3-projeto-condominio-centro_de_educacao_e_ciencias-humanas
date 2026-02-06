@@ -1,6 +1,7 @@
 # Descrição técnica de cada laboratório:
 
 ## Letras (Gelic - Estudos de Literatura e de Cultura):
+### IP: 34.194.103.191
 O projeto visa prover conectividade de alta performance para pesquisa linguística e acadêmica, utilizando uma topologia de rede em estrela interligada ao núcleo central do condomínio de laboratórios.
 
 ### Especificações Técnicas por Componente:
